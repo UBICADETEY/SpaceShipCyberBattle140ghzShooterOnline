@@ -3,6 +3,7 @@ let scoreElem = document.querySelector('.spanchik');
 let score=0;
 let warmstop;
 let temp;
+let bob = null;
 let squire;
 let squireCords;
 let boxDelig = document.querySelector('.boxDelig');
